@@ -3,10 +3,12 @@
 <h3 align="center">Here's my portfolio: https://casey-dane.vercel.app/</h3>
 
 <h3>I'm currently learning:</h3> 
+<p>   
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
     <img alt="SvelteKit" src="https://img.shields.io/badge/-SvelteKit-4A4A55?style=flat-square&logo=sveltekit&logoColor=white" />
-    
+</p>  
+
 <h3>Languages I Code with:</h3>
 <p>
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -38,5 +40,6 @@
     <img alt="OpenGL3" src="https://img.shields.io/badge/-OpenGL3-5586A4?style=flat-square&logo=opengl&logoColor=white" />
 </p>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ryu-134&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu-134&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu-134&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</div>
